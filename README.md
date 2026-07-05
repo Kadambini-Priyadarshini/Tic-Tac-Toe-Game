@@ -42,8 +42,8 @@ Kadambini
 Enter the name of second player:
 Nandini
 
-Alice is the first player and will play first.
-Bob is the second player and will play second.
+Kadambini is the first player and will play first.
+Nandini is the second player and will play second.
 
 1 | 2 | 3
 
